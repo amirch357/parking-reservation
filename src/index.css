@@ -1,0 +1,18 @@
+@font-face {
+  font-family: obvia-regular;
+  src: url("/public/assets/fonts/obvia-extralight.otf");
+}
+
+
+
+body {
+  margin: 0;
+  font-family:  obvia-regular ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: obvia-regular source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

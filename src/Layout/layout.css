@@ -1,0 +1,29 @@
+.nav-link{
+    color: rgb(125, 154, 186) !important;
+    font-family: obvia-regular;
+    font-size: 27px !important;
+    letter-spacing: 4px !important;
+}
+.nav-link:hover{
+    color: #FFF !important;
+}
+
+.user-name{
+    color: rgb(125, 154, 186) !important;
+    font-family: obvia-regular !important;
+    font-size: 27px !important;
+    letter-spacing: 4px !important;
+}
+.navbar-nav{
+    justify-content: center !important;
+    width: 97% !important;
+}
+.avatar-container{
+    height: 70px !important;
+    width: 70px !important;
+    background-color: #FFF !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
